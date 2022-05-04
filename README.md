@@ -66,6 +66,9 @@ W8 ePortfolio
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/178723741_3843333745743371_6419967193898742076_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LI_eWw4CDiYAX-gLS_-&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-S5YmwfcGDuzAecgq6ZUF24m7YKW-urqIIKARdWnYcXw&oe=62970336" alt="Communication skills" width="393" height="590">
   
   <h3>3. Work effectively as part of a team</h3>
+  <img src="Dream team 3.jpg" alt="Team Work" width="720" height="480">
+  <img src="Dream team 2.jpg" alt="Team Work" width="2048" height="1365">
+  
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
   <h4>4. Communicate effectively in a professional context</h4>
   <img src="https://images.ctfassets.net/pdf29us7flmy/f8fb0b6e-6483-589b-8111-8c11c3df8f43/506b630360981daf8322f977f4bf2a73/05_V4-01.jpg" alt="Team Work" width="1667" height="1667">
