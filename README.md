@@ -40,7 +40,26 @@ W8 ePortfolio
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/279057561_4972091046200963_7884770414378961287_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=rADtxA38epcAX8qgqcY&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-Wd67l35zMCYyoxcK9qZwB7B0QBGD1Z2YWVtsmhHtsEg&oe=62788A0B" alt="Communication skills" width="787" height="590">
   <p> Essential skills in oral communications and presentations.</p>
   <img src="https://www.thebalancecareers.com/thmb/vVkHP4mBdIeCui731-oPfSlmpIA=/672x0/filters:max_bytes(150000):strip_icc():format(webp)/communication-skills-list-2063779_FINAL1-5b60d4a9c9e77c00251d3de9.png" alt="Communication skills" width="416" height="277">
-  <
+  <p> 1. Listening: </p>
+  <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/265737021_4538377126239026_5362305473277157236_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=Dnz8ofokqFEAX8BZQzx&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT-0Rcrv1ILS7cooKlUnHhvwKmVwDt675Ay6SrjnL4MUpA&oe=62781429" alt="Communication skills" width="820" height="546">
+  
+  <p> 2. Friendliness: </p>
+  <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/272091265_4695335023876568_1211278268015339444_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=OeAbgryy080AX8WPTN8&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT9RDIo0M75A8U-LYaEQXpMtF05JCKzBxZa6sBUPxfNt9w&oe=6278AD4B" alt="Communication skills" width="784" height="590">
+  
+  <p> 3. Open Mindedness: </p>
+  <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/206563885_4041528022590608_5109868963186085745_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=TV1JuPQN-7wAX-bOAr7&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-ZbYugCkCMaZbmIh6e18DGhrD2Clh7p9U9220zovwrcQ&oe=627816B1" width="820" height="470">
+  
+  <p> 4. Feedback: </p>
+  <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/182312449_3869509533125792_6622852304797859586_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=fcPXhr02nlwAX81oaGS&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT9Q2DOFMrCtCtv0Vs7rIaxv4lY-dxtAuqXScA8ozZ6mVQ&oe=62973AF7" alt="Communication skills" width="820" height="547">
+  
+  <p> 5. Confidence: </p>
+  <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/177348812_3849039361839476_7430940500822596120_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=KudrgGlKKaQAX9ttgBS&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT9hpC2lY_RGYEyElI8p8jjjZ4FF8ocrSc8KNvqTqZFwkA&oe=62968050" alt="Communication skills" width="820" height="547">
+  
+  <p> 6. Non-verbal communication: </p>
+  <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t1.6435-9/179279637_3843341115742634_7567499061756726334_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=GM6WIKTGdUsAX9lUi5o&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT9Jnv651KVazBfh1RZZFGLgp4pg87jZk-ib3fMCyI6C7A&oe=6299B493" alt="Communication skills" width="820" height="547">
+  <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t1.6435-9/178097368_3843338789076200_2451998045562291827_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Iwd5WFA4Uh4AX8sLhQj&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT-_490-p-sdo2Pm0dGUCs-UxFZETJ0f0l30W57_Lh-etw&oe=62979B3E" alt="Communication skills" width="792" height="590">
+  <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/178723741_3843333745743371_6419967193898742076_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LI_eWw4CDiYAX-gLS_-&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-S5YmwfcGDuzAecgq6ZUF24m7YKW-urqIIKARdWnYcXw&oe=62970336" alt="Communication skills" width="393" height="590">
+  
   <img src="https://www.careercliff.com/wp-content/uploads/2019/07/speaking-skills-in-communication-min.png" alt="Communication skills" width="1200" height="628">
   <h3>3. Work effectively as part of a team</h3>
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
