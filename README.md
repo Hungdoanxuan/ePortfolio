@@ -4,14 +4,14 @@ W8 ePortfolio
 <html>
 <head>
 <body>
-  <h1>1.Explain communication concepts and strategies</h1>
+  <h1>1. Explain communication concepts and strategies</h1>
   <p>Communication concepts:</p>
   <img src="https://www.edu.gov.mb.ca/k12/tech/imym/images/inv_ict6.gif" alt="Concepts map" width="618" height="617">
   <p>Communication Strategies:</p>
   <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2020/09/Strategy-Mind-Map-Template.png" alt="Communication strategies" width="700" height="620">
-  <h2>2.Show confidence and skills in oral communications and presentations</h2>
-  <h3>3.Work effectively as part of a team</h3>
-  <h4>4.Communicate effectively in a professional context</h4>
-  <h5>5.Define and demonstrate conflict management and resolution strategies</h5>
+  <h2>2. Show confidence and skills in oral communications and presentations</h2>
+  <h3>3. Work effectively as part of a team</h3>
+  <h4>4. Communicate effectively in a professional context</h4>
+  <h5>5. Define and demonstrate conflict management and resolution strategies</h5>
 </body>
 </html>
