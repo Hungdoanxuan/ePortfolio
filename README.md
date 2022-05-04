@@ -12,6 +12,7 @@ W8 ePortfolio
   <h2>2. Show confidence and skills in oral communications and presentations</h2>
   <img src="https://www.careercliff.com/wp-content/uploads/2019/07/speaking-skills-in-communication-min.png" alt="Communication skills" width="1200" height="628">
   <h3>3. Work effectively as part of a team</h3>
+  <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
   <h4>4. Communicate effectively in a professional context</h4>
   <h5>5. Define and demonstrate conflict management and resolution strategies</h5>
 </body>
