@@ -6,7 +6,7 @@ W8 ePortfolio
 <body>
   <h1>Explain communication concepts and strategies</h1>
   <p>Communication concepts:</p>
-  <img src="Concept map.png" alt="https://venngage-wordpress.s3.amazonaws.com/uploads/2020/09/Strategy-Mind-Map-Template.png" width="700" height="393">
+  <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2020/09/Strategy-Mind-Map-Template.png" alt="Concepts map" width="700" height="393">
   <p>Communication Strategies:</p>
   <img src="Strategy mind map.png" alt="Communication strategies" width="700" height="620">
   <h2>Show confidence and skills in oral communications and presentations</h2>
