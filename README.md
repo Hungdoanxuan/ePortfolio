@@ -7,6 +7,8 @@ W8 ePortfolio
   <h1>Explain communication concepts and strategies</h1>
   <p>Communication concepts:</p>
   <img src="Concept map.png" alt="Communication concepts" width="700" height="393">
+  <p>Communication Strategies:</p>
+  <img src="Strategy mind map.png" alt="Communication strategies" width="700" height="620">
   <h2>Show confidence and skills in oral communications and presentations</h2>
   <h3>Work effectively as part of a team</h3>
   <h4>Communicate effectively in a professional context</h4>
