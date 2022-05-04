@@ -89,10 +89,40 @@ W8 ePortfolio
   
   <p> 3. Written language:</p>
   <p> The conveying of messages, commands, or instructions in writing via letters, circulars, manuals, reports, telegrams, office memos, bulletins, and so on is referred to as 'Written Communication.' It is a more formal and less adaptable mode of communication.</p>
+  <p> Writing is also a good technique to lead your audience to the stuff you want to show them. It also has an advantage over nonverbal communication in that writing allows your teammate to rapidly comprehend the information you provide, making successful communication faster, more succinct, and more complete.</p>
   
   <p> 4. Visual language:</p>
   <p> The process of graphically displaying information to quickly and effectively establish meaning is known as visual communication. In the domain of visual communication, there are several sorts of material, including infographics, interactive content, motion graphics, and others.</p>
+  <p> Visual language is an efficient means of communication when there are many distinct directions or a lot of information that is connected to each other. A metric graph, for example, would be a helpful way to help your team grasp information about numbers and how much a measure is up or down. Your staff will then have a more intuitive understanding of the communication's substance.</p>
   
   <h5>5. Define and demonstrate conflict management and resolution strategies</h5>
+  <img src="https://web-static.wrike.com/cdn-cgi/image/width=900,format=auto/blog/content/uploads/2020/08/How-Do-You-Handle-Conflict-in-Project-Management-1.jpg?av=4ae241c1ff08cf18c6eb02e5d4b7ccfc" alt="Conflict" width="752" height="430">
+  <p> To resolving conflict: help people solve their problems, you need to follow 5 steps: Listen & Understand their needs, Empathise, Apologise, Offer solution and Resolution, Reconcile.</p>
+  <p> An important condition of conflict resolution is to avoid attacking others, be open with 1st person, a passive voice.</p>
+  
+  <p> Step 1. Listen & Understand their needs:</p>
+  <p> Following the "I" Phrase, explain your knowledge of their behaviour from their point of view. At the same time, ask questions if you don't understand their point of view.</p>
+  
+  <p> Step 2. Empathise </p>
+  <p> Listen more than you speak. If you have a habit of talking a lot, try to listen 70% of the time in each discussion, listen to connect, allow the other person go first, and let others know you understood before moving on.</p>
+  
+  <p> Step 3. Apologise </p>
+  <p> You need to comprehend the distinction between Sorry and Wrong. Sorry = Accept responsibility for resolving issue and heal relationship. Apologize only if you are honest.
+    
+  <p> Step 4. Offer solution and Resolution </p>
+  <p> To resolve a problem, you need to...</p>
+  <p> * Ensure that everyone agrees on a solution: </p>
+  <p> - Is there anything else we should discuss? </p>
+  <p> - Are you pleased with the solution? </p>
+  <p> * Express your gratitude for your assistance in resolving the problem: </p>
+  <p> - I'm pleased we were able to resolve this. </p>
+  <p> - I'm glad we spoke about it. </p>
+  
+  <p> Step 5. Reconciliation </p>
+  <p> Reconciliation restores relationships damaged by the conflict: </p>
+  <p> * Let the other person know they are essential to you, e.g: </p>
+  <p> - I cherish our working connection. </p>
+  <p> - I have a better understanding of you. </p>
+  <p> - Or just gift them a box of chocolates. </p>
 </body>
 </html>
