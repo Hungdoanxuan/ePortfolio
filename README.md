@@ -6,7 +6,7 @@ W8 ePortfolio
 <body>
   <h1>Explain communication concepts and strategies</h1>
   <p>Communication concepts:</p>
-  <img src="../images/inv_ict6.gif" alt="Concepts map" width="700" height="393">
+  <img src="https://www.edu.gov.mb.ca/k12/tech/imym/images/inv_ict6.gif" alt="Concepts map" width="700" height="393">
   <p>Communication Strategies:</p>
   <img src="Strategy mind map.png" alt="Communication strategies" width="700" height="620">
   <h2>Show confidence and skills in oral communications and presentations</h2>
