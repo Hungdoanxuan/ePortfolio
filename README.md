@@ -69,9 +69,30 @@ W8 ePortfolio
   <img src="Dream team 3.jpg" alt="Team Work" width="720" height="480">
   <img src="Dream team 2.jpg" alt="Team Work" width="720" height="480">
   
+  <p> Tips for the best teamwork:</p>
+  <img src="https://www.thebalancecareers.com/thmb/n52GedA1ZZSFKj213waaHXOck5g=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/tips-for-better-teamwork-1919225_v4-5b4dfa2746e0fb00371186e0.png" alt="Team Work" width="726" height="484">
+  
+  <p> Performance management and how to effectively lead teams </p>
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
+  
   <h4>4. Communicate effectively in a professional context</h4>
-  <img src="https://images.ctfassets.net/pdf29us7flmy/f8fb0b6e-6483-589b-8111-8c11c3df8f43/506b630360981daf8322f977f4bf2a73/05_V4-01.jpg" alt="Team Work" width="1667" height="1667">
+  <p> To develop a professional discussion, you must first grasp and master the four fundamental characteristics of professional communication:</p>
+  <img src="https://images.ctfassets.net/pdf29us7flmy/f8fb0b6e-6483-589b-8111-8c11c3df8f43/506b630360981daf8322f977f4bf2a73/05_V4-01.jpg" alt="Team Work" width="1000" height="1000">
+  <p> 1. Body language: </p>
+  
+  <p> Body language is the use of physical behaviour, expressions, and mannerisms to communicate nonverbally, which is generally done subconsciously rather than deliberately.</p>
+  <p> When you communicate with people, you are always sending and receiving nonverbal cues. All of your nonverbal behaviors—your gestures, posture, tone of voice, and amount of eye contact—send significant messages. They may either put people at ease, develop trust, and attract others to you, or they can offend, confuse, and undercut what you're trying to say. These messages do not stop even if you stop speaking. Even when you're not speaking, you're communicating nonverbally.</p>
+  <p> You may convey what you actually mean, connect better with people, and establish deeper, more meaningful relationships by enhancing your understanding and use of nonverbal communication.</p>
+  
+  <p> 2. Verbal language: </p>
+  <p> The use of words to exchange information with others is known as verbal communication. As a result, it might incorporate both verbal and written communication. Many individuals, however, use the phrase to refer to just oral communication. The verbal component of communication is all about the words you pick, as well as how they are heard and interpreted.</p>
+  
+  <p> 3. Written language:</p>
+  <p> The conveying of messages, commands, or instructions in writing via letters, circulars, manuals, reports, telegrams, office memos, bulletins, and so on is referred to as 'Written Communication.' It is a more formal and less adaptable mode of communication.</p>
+  
+  <p> 4. Visual language:</p>
+  <p> The process of graphically displaying information to quickly and effectively establish meaning is known as visual communication. In the domain of visual communication, there are several sorts of material, including infographics, interactive content, motion graphics, and others.</p>
+  
   <h5>5. Define and demonstrate conflict management and resolution strategies</h5>
 </body>
 </html>
