@@ -29,6 +29,14 @@ W8 ePortfolio
   <p>https://www.youtube.com/watch?v=QGeHS4jO0X0</p>
   
   <h2>2. Show confidence and skills in oral communications and presentations</h2>
+  <p> It is critical to have confidence in your communication and presenting skills. It draws the audience's attention and instils faith in the facts you present. Simultaneously, your conversation and presentation will be interesting enough to hold your audience's attention and offer you with useful feedback.</p>
+  <p> Confidence in oral communication: </p>
+  <img src="Oral communication 3.jpg" alt="Communication skills" width="416" height="277">
+  
+  <img src="Oral communication.jpg" alt="Communication skills" width="416" height="277">
+  
+  <img src="https://www.thebalancecareers.com/thmb/vVkHP4mBdIeCui731-oPfSlmpIA=/672x0/filters:max_bytes(150000):strip_icc():format(webp)/communication-skills-list-2063779_FINAL1-5b60d4a9c9e77c00251d3de9.png" alt="Communication skills" width="416" height="277">
+  
   <img src="https://www.careercliff.com/wp-content/uploads/2019/07/speaking-skills-in-communication-min.png" alt="Communication skills" width="1200" height="628">
   <h3>3. Work effectively as part of a team</h3>
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
