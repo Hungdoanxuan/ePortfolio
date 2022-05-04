@@ -10,8 +10,10 @@ W8 ePortfolio
   <p>Communication Strategies:</p>
   <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2020/09/Strategy-Mind-Map-Template.png" alt="Communication strategies" width="700" height="620">
   <h2>2. Show confidence and skills in oral communications and presentations</h2>
+  <img src="https://i0.wp.com/www.careercliff.com/wp-content/u…king-skills-in-communication-min.png?w=1200&ssl=1" alt="Communication confidence skills" width="1200" height="628">
   <h3>3. Work effectively as part of a team</h3>
   <h4>4. Communicate effectively in a professional context</h4>
   <h5>5. Define and demonstrate conflict management and resolution strategies</h5>
 </body>
 </html>
+	
