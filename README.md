@@ -8,7 +8,8 @@ W8 ePortfolio
   <p>Communication concepts:</p>
   <img src="https://www.edu.gov.mb.ca/k12/tech/imym/images/inv_ict6.gif" alt="Concepts map" width="618" height="617">
   <p>Communication Strategies:</p>
-  <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2020/09/Strategy-Mind-Map-Template.png" alt="Communication strategies" width="700" height="620">
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=QGeHS4jO0X0">
+</iframe>
   <img src="https://www.proofhub.com/wp-content/uploads/2018/09/Best-Strategies-for-Effective-Communication.gif" alt="Communication strategies" width="700" height="620">
   <h2>2. Show confidence and skills in oral communications and presentations</h2>
   <img src="https://www.careercliff.com/wp-content/uploads/2019/07/speaking-skills-in-communication-min.png" alt="Communication skills" width="1200" height="628">
