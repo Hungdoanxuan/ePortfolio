@@ -15,6 +15,7 @@ W8 ePortfolio
   <h3>3. Work effectively as part of a team</h3>
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
   <h4>4. Communicate effectively in a professional context</h4>
+  <img src="https://images.ctfassets.net/pdf29us7flmy/f8fb0b6e-6483-589b-8111-8c11c3df8f43/506b630360981daf8322f977f4bf2a73/05_V4-01.jpg" alt="Team Work" width="1667" height="1667">
   <h5>5. Define and demonstrate conflict management and resolution strategies</h5>
 </body>
 </html>
