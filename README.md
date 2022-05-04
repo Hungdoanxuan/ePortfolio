@@ -67,7 +67,7 @@ W8 ePortfolio
   
   <h3>3. Work effectively as part of a team</h3>
   <img src="Dream team 3.jpg" alt="Team Work" width="720" height="480">
-  <img src="Dream team 2.jpg" alt="Team Work" width="2048" height="1365">
+  <img src="Dream team 2.jpg" alt="Team Work" width="720" height="480">
   
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
   <h4>4. Communicate effectively in a professional context</h4>
