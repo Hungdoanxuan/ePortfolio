@@ -44,34 +44,45 @@ W8 ePortfolio
   <p> Source: Little UK.</p>
   <p> Essential skills in oral communications and presentations.</p>
   <img src="https://www.thebalancecareers.com/thmb/vVkHP4mBdIeCui731-oPfSlmpIA=/672x0/filters:max_bytes(150000):strip_icc():format(webp)/communication-skills-list-2063779_FINAL1-5b60d4a9c9e77c00251d3de9.png" alt="Communication skills" width="416" height="277">
+  <p> Source: The Balance Careers.</p>
   <p> 1. Listening: </p>
   <p> Listening is the capacity to correctly hear and analyse signals throughout the communication process is referred to as listening. Listening is essential for all forms of good communication. Messages are readily misconstrued when people lack the skill to listen attentively.</p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/265737021_4538377126239026_5362305473277157236_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=Dnz8ofokqFEAX8BZQzx&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT-0Rcrv1ILS7cooKlUnHhvwKmVwDt675Ay6SrjnL4MUpA&oe=62781429" alt="Communication skills" width="820" height="546">
+  <p> Source: Little UK.</p>
   
   <p> 2. Friendliness: </p>
   <p> Friendliness is a key communication skill since it allows people to more easily accept your message. Including customised messages, such as wishing someone a nice evening, while communicating is an example of exhibiting friendliness in the workplace.</p>
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/272091265_4695335023876568_1211278268015339444_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=OeAbgryy080AX8WPTN8&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT9RDIo0M75A8U-LYaEQXpMtF05JCKzBxZa6sBUPxfNt9w&oe=6278AD4B" alt="Communication skills" width="784" height="590">
+  <p> Source: Little UK.</p>
   
   <p> 3. Open Mindedness: </p>
   <p> Open-mindedness is an essential component of the communication process. Because it demonstrates to everyone around you that you are open to receive communication from them and that you are willing to discuss whatever the person wishes to discuss.</p>
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/206563885_4041528022590608_5109868963186085745_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=TV1JuPQN-7wAX-bOAr7&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-ZbYugCkCMaZbmIh6e18DGhrD2Clh7p9U9220zovwrcQ&oe=627816B1" width="820" height="470">
+  <p> Source: Little UK.</p>
   
   <p> 4. Feedback: </p>
   <p> Feedback in the communication process refers to a reaction from the receiver that informs the communicator about how the message is being received and whether it needs to be updated.</p>
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/182312449_3869509533125792_6622852304797859586_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=fcPXhr02nlwAX81oaGS&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT9Q2DOFMrCtCtv0Vs7rIaxv4lY-dxtAuqXScA8ozZ6mVQ&oe=62973AF7" alt="Communication skills" width="820" height="547">
+  <p> Source: Little UK.</p>
   
   <p> 5. Confidence: </p>
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/177348812_3849039361839476_7430940500822596120_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=KudrgGlKKaQAX9ttgBS&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT9hpC2lY_RGYEyElI8p8jjjZ4FF8ocrSc8KNvqTqZFwkA&oe=62968050" alt="Communication skills" width="820" height="547">
+  <p> Source: Little UK.</p>
   
   <p> 6. Non-verbal communication: </p>
   <p> Nonverbal communication is important in our lives since it improves a person's capacity to relate, engage, and form meaningful contacts. People who have a better knowledge of this style of communication may be able to form deeper relationships with others.</p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t1.6435-9/179279637_3843341115742634_7567499061756726334_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=GM6WIKTGdUsAX9lUi5o&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT9Jnv651KVazBfh1RZZFGLgp4pg87jZk-ib3fMCyI6C7A&oe=6299B493" alt="Communication skills" width="820" height="547">
+  <p> Source: Little UK.</p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t1.6435-9/178097368_3843338789076200_2451998045562291827_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Iwd5WFA4Uh4AX8sLhQj&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT-_490-p-sdo2Pm0dGUCs-UxFZETJ0f0l30W57_Lh-etw&oe=62979B3E" alt="Communication skills" width="792" height="590">
+  <p> Source: Little UK. </p>
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t1.6435-9/178723741_3843333745743371_6419967193898742076_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LI_eWw4CDiYAX-gLS_-&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-S5YmwfcGDuzAecgq6ZUF24m7YKW-urqIIKARdWnYcXw&oe=62970336" alt="Communication skills" width="393" height="590">
+  <p> Source: Little UK.</p>
   
   <h3>3. Work effectively as part of a team</h3>
   <img src="Dream team 3.jpg" alt="Team Work" width="720" height="480">
+  <p> Source: FPT University.</p>
   <img src="Dream team 2.jpg" alt="Team Work" width="720" height="480">
+  <p> Source: Little UK.</p>
   
   <p> Tips for the best teamwork:</p>
   <img src="https://www.thebalancecareers.com/thmb/n52GedA1ZZSFKj213waaHXOck5g=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/tips-for-better-teamwork-1919225_v4-5b4dfa2746e0fb00371186e0.png" alt="Team Work" width="726" height="484">
