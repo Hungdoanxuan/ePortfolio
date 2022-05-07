@@ -34,8 +34,10 @@ W8 ePortfolio
   <p> It is critical to have confidence in your communication and presenting skills. It draws the audience's attention and instils faith in the facts you present. Simultaneously, your conversation and presentation will be interesting enough to hold your audience's attention and offer you with useful feedback.</p>
   <p> Confidence in oral communications: </p>
   <img src="Oral communication 3.jpg" alt="Communication skills" width="416" height="277">
+  <p> Source: FPT University.
   
   <img src="Oral communication.jpg" alt="Communication skills" width="416" height="277">
+  <p> Source: FPT University.
   
   <p> Confidence in presentations: </p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/240653883_4265646093512132_1939750849964898382_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=CT70-WJg8fAAX-ySGGU&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT8JifKsVownrESbvpYaKeV1ZY3TiXSy_AwdQwNdM93tHQ&oe=62774D15" alt="Communication skills" width="393" height="590">
