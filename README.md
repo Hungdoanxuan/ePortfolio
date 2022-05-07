@@ -80,19 +80,22 @@ W8 ePortfolio
   
   <h3>3. Work effectively as part of a team</h3>
   <img src="Dream team 3.jpg" alt="Team Work" width="720" height="480">
-  <p> Source: FPT University.</p>
+  <p> Source: Little UK.</p>
   <img src="Dream team 2.jpg" alt="Team Work" width="720" height="480">
   <p> Source: Little UK.</p>
   
   <p> Tips for the best teamwork:</p>
   <img src="https://www.thebalancecareers.com/thmb/n52GedA1ZZSFKj213waaHXOck5g=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/tips-for-better-teamwork-1919225_v4-5b4dfa2746e0fb00371186e0.png" alt="Team Work" width="726" height="484">
+  <p> Source: The Balance Careers.</p>
   
   <p> Performance management and how to effectively lead teams </p>
   <img src="https://www.ckju.net/en/system/files/styles/panopoly_image_original/private/info_graphic_ebm_how_to_effectively_lead_teams_through_peformance_management.jpg?itok=skcJloTa&c=d5c762b61c41d41483f1c3d7e4a23004" alt="Team Work" width="1280" height="720">
+  <p> Source: CQ Net.</p>
   
   <h4>4. Communicate effectively in a professional context</h4>
   <p> To develop a professional discussion, you must first grasp and master the four fundamental characteristics of professional communication:</p>
   <img src="https://images.ctfassets.net/pdf29us7flmy/f8fb0b6e-6483-589b-8111-8c11c3df8f43/506b630360981daf8322f977f4bf2a73/05_V4-01.jpg" alt="Team Work" width="1000" height="1000">
+  <p> Source: Indeed Career Guide.</p>
   <p> 1. Body language: </p>
   
   <p> Body language is the use of physical behaviour, expressions, and mannerisms to communicate nonverbally, which is generally done subconsciously rather than deliberately.</p>
