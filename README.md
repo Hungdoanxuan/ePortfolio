@@ -39,7 +39,9 @@ W8 ePortfolio
   <p> Source: FPT University.</p>
   <p> Confidence in presentations: </p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/240653883_4265646093512132_1939750849964898382_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=CT70-WJg8fAAX-ySGGU&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT8JifKsVownrESbvpYaKeV1ZY3TiXSy_AwdQwNdM93tHQ&oe=62774D15" alt="Communication skills" width="393" height="590">
+  <p> Source: Little UK.</p>
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/279057561_4972091046200963_7884770414378961287_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=rADtxA38epcAX8qgqcY&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-Wd67l35zMCYyoxcK9qZwB7B0QBGD1Z2YWVtsmhHtsEg&oe=62788A0B" alt="Communication skills" width="787" height="590">
+  <p> Source: Little UK.</p>
   <p> Essential skills in oral communications and presentations.</p>
   <img src="https://www.thebalancecareers.com/thmb/vVkHP4mBdIeCui731-oPfSlmpIA=/672x0/filters:max_bytes(150000):strip_icc():format(webp)/communication-skills-list-2063779_FINAL1-5b60d4a9c9e77c00251d3de9.png" alt="Communication skills" width="416" height="277">
   <p> 1. Listening: </p>
