@@ -16,6 +16,7 @@ W8 ePortfolio
   <p>II. Communication Strategies:</p>
   <p> A communication strategy ensures that everyone engaged has enough knowledge to talk about it, allowing for consistency in the workplace and avoiding ambiguity.</p>
   <img src="https://www.proofhub.com/wp-content/uploads/2018/09/Best-Strategies-for-Effective-Communication.gif" alt="Communication strategies" width="700" height="620">
+  <p> Source: ProofHub.
   <p> It will follow 4 steps:</p>
   <p> 1. Goal identification:</p>
    <p> Everyone must identify goals in order to prevent being disoriented or having the plan thrown off. Determining the correct goals aids in keeping communication productive, on track, and focused on the main topic.</p>
