@@ -8,7 +8,7 @@ W8 ePortfolio
   <h1>1. Explain communication concepts and strategies</h1>
   <p>I. Communication concepts:</p>
   <img src="https://wtcs.pressbooks.pub/app/uploads/sites/31/2020/08/Osgood-Schramm-model-of-communication-1024x676.jpg" alt="Concepts map" width="788" height="520">
-  <p> Source: Wisconsin Technical College System.
+  <p> Source: Wisconsin Technical College System.</p>
   <p> Encoding is the process of converting an idea into a form that can be recognised by a recipient, such as written or spoken language.</p>
   <p> Decoding is the process of turning a communication back into the original concepts of the sender.</p>
   <p> Feedback is the process of informing a recipient on the impact of a message.</p>
@@ -16,7 +16,7 @@ W8 ePortfolio
   <p>II. Communication Strategies:</p>
   <p> A communication strategy ensures that everyone engaged has enough knowledge to talk about it, allowing for consistency in the workplace and avoiding ambiguity.</p>
   <img src="https://www.proofhub.com/wp-content/uploads/2018/09/Best-Strategies-for-Effective-Communication.gif" alt="Communication strategies" width="700" height="620">
-  <p> Source: ProofHub.
+  <p> Source: ProofHub.</p>
   <p> It will follow 4 steps:</p>
   <p> 1. Goal identification:</p>
    <p> Everyone must identify goals in order to prevent being disoriented or having the plan thrown off. Determining the correct goals aids in keeping communication productive, on track, and focused on the main topic.</p>
@@ -34,9 +34,9 @@ W8 ePortfolio
   <p> It is critical to have confidence in your communication and presenting skills. It draws the audience's attention and instils faith in the facts you present. Simultaneously, your conversation and presentation will be interesting enough to hold your audience's attention and offer you with useful feedback.</p>
   <p> Confidence in oral communications: </p>
   <img src="Oral communication 3.jpg" alt="Communication skills" width="416" height="277">
-  <p> Source: FPT University.
+  <p> Source: FPT University.</p>
   <img src="Oral communication.jpg" alt="Communication skills" width="416" height="277">
-  <p> Source: FPT University.
+  <p> Source: FPT University.</p>
   <p> Confidence in presentations: </p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/240653883_4265646093512132_1939750849964898382_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=CT70-WJg8fAAX-ySGGU&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT8JifKsVownrESbvpYaKeV1ZY3TiXSy_AwdQwNdM93tHQ&oe=62774D15" alt="Communication skills" width="393" height="590">
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/279057561_4972091046200963_7884770414378961287_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=rADtxA38epcAX8qgqcY&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-Wd67l35zMCYyoxcK9qZwB7B0QBGD1Z2YWVtsmhHtsEg&oe=62788A0B" alt="Communication skills" width="787" height="590">
