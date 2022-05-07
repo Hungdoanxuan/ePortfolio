@@ -35,10 +35,8 @@ W8 ePortfolio
   <p> Confidence in oral communications: </p>
   <img src="Oral communication 3.jpg" alt="Communication skills" width="416" height="277">
   <p> Source: FPT University.
-  
   <img src="Oral communication.jpg" alt="Communication skills" width="416" height="277">
   <p> Source: FPT University.
-  
   <p> Confidence in presentations: </p>
   <img src="https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/240653883_4265646093512132_1939750849964898382_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=CT70-WJg8fAAX-ySGGU&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT8JifKsVownrESbvpYaKeV1ZY3TiXSy_AwdQwNdM93tHQ&oe=62774D15" alt="Communication skills" width="393" height="590">
   <img src="https://scontent.fsyd10-2.fna.fbcdn.net/v/t39.30808-6/279057561_4972091046200963_7884770414378961287_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=rADtxA38epcAX8qgqcY&_nc_ht=scontent.fsyd10-2.fna&oh=00_AT-Wd67l35zMCYyoxcK9qZwB7B0QBGD1Z2YWVtsmhHtsEg&oe=62788A0B" alt="Communication skills" width="787" height="590">
