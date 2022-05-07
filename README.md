@@ -8,6 +8,7 @@ W8 ePortfolio
   <h1>1. Explain communication concepts and strategies</h1>
   <p>I. Communication concepts:</p>
   <img src="https://wtcs.pressbooks.pub/app/uploads/sites/31/2020/08/Osgood-Schramm-model-of-communication-1024x676.jpg" alt="Concepts map" width="788" height="520">
+  <p> Source: Wisconsin Technical College System.
   <p> Encoding is the process of converting an idea into a form that can be recognised by a recipient, such as written or spoken language.</p>
   <p> Decoding is the process of turning a communication back into the original concepts of the sender.</p>
   <p> Feedback is the process of informing a recipient on the impact of a message.</p>
